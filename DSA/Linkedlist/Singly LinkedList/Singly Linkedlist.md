@@ -50,6 +50,10 @@ public class Node {
     }
 }
 ```
+Explanation:
+1) A `class Node` in Java is like a blueprint for creating objects.
+2) `int val;` stores the data value that this node holds.
+3) `Node next;`This declares another field named next of type Node and This is a reference (or pointer) to the next node in the linked list.
 ### 📄 Singly Linkedlist.java
 ```java
 public class SinglyList {
